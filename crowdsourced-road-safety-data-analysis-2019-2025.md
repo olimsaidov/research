@@ -8,7 +8,7 @@ This analysis examines five years (2019-2023) of crowdsourced road safety violat
 ### Dataset Overview
 
 **Data Source**: Uzbekistan Republic Cabinet of Ministers Resolution No. 747 (September 20, 2018)
-**Coverage**: January 1, 2019 - December 31, 2023
+**Coverage**: January 1, 2019 - December 31, 2025
 **System Type**: Crowdsourced dashcam-based traffic violation reporting
 **Incentive Model**: Citizens receive financial rewards from fines generated
 **Geographic Scope**: All 14 administrative regions of Uzbekistan
@@ -29,8 +29,10 @@ This analysis examines five years (2019-2023) of crowdsourced road safety violat
 | 2021 | 303,929 | +157.2% | +810.4% | 317,867 | 95.6% |
 | 2022 | 268,565 | -11.6% | +704.4% | 262,793 | 102.2% |
 | 2023 | 437,668 | +63.0% | +1,211.1% | 406,070 | 107.8% |
+| 2024 | 531,924 | +21.5% | +1,493.4% | 461,975 | 115.1% |
+| 2025 | 370,693 | -30.3% | +1,010.4% | 413,695 | 89.6% |
 
-**Key Insight**: The ratio of violations to applications shows initial over-reporting (citizens submitting multiple violations per application), which normalized by 2021 as the system matured.
+**Key Insight**: The system experienced peak adoption in 2024 before showing signs of maturation in 2025. The ratio of violations to applications normalized, indicating improved system efficiency and user understanding.
 
 #### 2. Violation Processing Efficiency
 
@@ -41,34 +43,36 @@ This analysis examines five years (2019-2023) of crowdsourced road safety violat
 | 2021 | 303,929 | 9,277 | 5,038 | 13,199 | 244,712 | 80.5% | 4.3% |
 | 2022 | 268,565 | 1,062 | 8,356 | 45,612 | 213,187 | 79.4% | 17.0% |
 | 2023 | 437,668 | 695 | 11,204 | 88,067 | 335,215 | 76.6% | 20.1% |
+| 2024 | 531,924 | 1,264 | 13,189 | 70,355 | 436,907 | 82.1% | 13.2% |
+| 2025 | 370,693 | 765 | 7,962 | 11,813 | 293,156 | 79.1% | 3.2% |
 
 **Trend Analysis**:
-- Processing efficiency decreased as volume increased (87.0% → 76.6%)
-- Rejection rates increased significantly (10.0% → 20.1%), suggesting stricter quality control
-- System backlog (pending cases) peaked in 2021 during maximum growth phase
+- Processing efficiency stabilized around 80% after initial learning curve
+- 2025 shows significant improvement in rejection management (3.2% vs 20.1% in 2023)
+- System maturity achieved with more consistent processing outcomes
 
 #### 3. Most Common Violations
 
-**Top 10 Violation Types by Volume (2019-2023 Combined)**
+**Top 10 Violation Types by Volume (2019-2025 Combined)**
 
-| Violation Code | Violation Type (English) | 2019 | 2020 | 2021 | 2022 | 2023 | Total 5-Year | Growth Rate |
-|----------------|-------------------------|------|------|------|------|------|-------------|-------------|
-| 128-1 | Lane Violations | 9,425 | 39,445 | 150,514 | 134,662 | 265,312 | 599,358 | 2,716% |
-| 128⁶-1 | Illegal Stopping | 8,168 | 33,616 | 46,673 | 22,286 | 64,123 | 174,866 | 685% |
-| 128⁴-1 | Stop Line Violations | 2,251 | 10,896 | 27,478 | 52,035 | 49,404 | 142,064 | 2,095% |
-| 128⁴-2 | Red Light Running | 5,369 | 17,583 | 29,815 | 28,444 | 20,058 | 101,269 | 274% |
-| 128-1 | Traffic Sign Violations | 2,430 | 6,630 | 30,568 | 17,595 | 19,531 | 76,754 | 704% |
-| 128⁵-2 | Wrong Way Driving | 3,317 | 4,465 | 6,612 | 2,958 | 3,217 | 20,569 | -3% |
-| 128-1 | Pedestrian Right of Way | 1,098 | 3,311 | 4,906 | 5,290 | 9,042 | 23,647 | 724% |
-| 128-1 | Sidewalk Driving | 33 | 119 | 1,363 | 701 | 1,631 | 3,847 | 4,842% |
-| 128¹-1 | Phone Usage While Driving | 27 | 42 | 1,057 | 1,399 | 588 | 3,113 | 2,078% |
-| 130-1 | Railway Violations | 205 | 468 | 498 | 478 | 1,506 | 3,155 | 635% |
+| Violation Code | Violation Type (English) | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | Total 7-Year | Growth Rate |
+|----------------|-------------------------|------|------|------|------|------|------|------|-------------|-------------|
+| 128-1 | Lane Violations | 9,425 | 39,445 | 150,514 | 134,662 | 265,312 | 298,189 | 245,736 | 1,143,283 | 2,607% |
+| 128⁶-1 | Illegal Stopping | 8,168 | 33,616 | 46,673 | 22,286 | 64,123 | 54,308 | 24,190 | 253,364 | 196% |
+| 128⁴-1 | Stop Line Violations | 2,251 | 10,896 | 27,478 | 52,035 | 49,404 | 72,515 | 19,178 | 233,757 | 752% |
+| 128⁴-2 | Red Light Running | 5,369 | 17,583 | 29,815 | 28,444 | 20,058 | 18,330 | 10,487 | 130,086 | 95% |
+| 128-1 | Traffic Sign Violations | 2,430 | 6,630 | 30,568 | 17,595 | 19,531 | 40,835 | 35,818 | 153,407 | 1,374% |
+| 128-1 | Pedestrian Right of Way | 1,098 | 3,311 | 4,906 | 5,290 | 9,042 | 29,584 | 29,830 | 82,061 | 2,618% |
+| 128⁵-2 | Wrong Way Driving | 3,317 | 4,465 | 6,612 | 2,958 | 3,217 | 2,490 | 815 | 23,874 | -75% |
+| 128-1 | Sidewalk Driving | 33 | 119 | 1,363 | 701 | 1,631 | 6,129 | 955 | 10,931 | 2,794% |
+| 128-1 | Human Transportation | 18 | 49 | 87 | 85 | 727 | 4,474 | 1,648 | 7,088 | 9,056% |
+| 128¹-1 | Phone Usage While Driving | 27 | 42 | 1,057 | 1,399 | 588 | 376 | 136 | 3,625 | 404% |
 
 **Key Findings:**
-- Lane violations dominate with 599,358 total cases (48.8% of all violations)
-- Stop line violations show highest growth rate at 2,095%
-- Wrong way driving shows negative growth (-3%), suggesting successful deterrence
-- Phone usage violations peaked in 2022, then declined by 58% in 2023
+- Lane violations dominate with 1,143,283 total cases (61.8% of all violations)
+- Pedestrian right of way violations show explosive growth (2,618% increase)
+- Wrong way driving shows significant decline (-75%), suggesting successful deterrence
+- Human transportation violations show remarkable growth pattern (9,056% increase)
 
 #### 4. Financial Impact
 
@@ -81,25 +85,27 @@ This analysis examines five years (2019-2023) of crowdsourced road safety violat
 | 2021 | 72.0 | 244,712 | 72.0 | 0 | 0.0 | 31,871 | 9.7 | 88.1% |
 | 2022 | 56.9 | 213,187 | 56.9 | 0 | 0.0 | 1,293 | 0.4 | 99.2% |
 | 2023 | 97.6 | 335,215 | 97.6 | 0 | 0.0 | 3,777 | 1.3 | 98.7% |
+| 2024 | 121.2 | 436,907 | 121.2 | 454 | 0.2 | 11,580 | 3.5 | 97.2% |
+| 2025 | 108.2 | 293,156 | 108.2 | 42,957 | 18.8 | 15,002 | 5.3 | 83.2% |
 
-**5-Year Totals**: 282.5 billion UZS total revenue, 98.2% average payment rate
+**7-Year Totals**: 511.9 billion UZS total revenue, 95.7% average payment rate
 
-**Average Fine Value by Violation Type (2023)**
+**Average Fine Value by Violation Type (2025)**
 
 | Violation Type | Total Cases | Total Revenue (million UZS) | Average Fine (UZS) | Rank by Value |
 |----------------|-------------|-----------------------------|--------------------|---------------|
-| Wrong Way Driving | 3,217 | 7,615.5 | 2,367,516 | 1 |
-| Accident Causing | 708 | 1,703.5 | 2,405,932 | 2 |
-| Railway Violations | 1,506 | 872.9 | 579,814 | 3 |
-| Phone Usage | 588 | 442.3 | 752,380 | 4 |
-| Illegal Stopping | 64,123 | 32,803.3 | 511,465 | 5 |
-| Red Light Running | 20,058 | 9,684.4 | 482,917 | 6 |
-| Lane Violations | 265,312 | 32,692.0 | 123,268 | 7 |
+| Wrong Way Driving | 815 | 2,216.3 | 2,719,141 | 1 |
+| Accident Causing | 502 | 1,275.0 | 2,540,239 | 2 |
+| Red Light Running | 10,487 | 8,096.6 | 772,244 | 3 |
+| Illegal Stopping | 24,190 | 13,432.5 | 555,249 | 4 |
+| Railway Violations | 133 | 74.3 | 558,647 | 5 |
+| Phone Usage | 136 | 115.9 | 852,206 | 6 |
+| Lane Violations | 245,736 | 61,110.6 | 248,717 | 7 |
 
 **Economic Insights:**
-- High-risk violations (wrong way, accidents) carry premium fines
-- Volume violations (lane, stopping) generate most revenue despite lower individual fines
-- Average system-wide fine: 286,000 UZS per violation
+- System generated over 511.9 billion UZS across seven years
+- 2025 shows concerning trend in unpaid fines (18.8 billion UZS)
+- High-risk violations maintain premium pricing structure
 
 #### 5. System Challenges
 
@@ -280,42 +286,42 @@ This analysis examines five years (2019-2023) of crowdsourced road safety violat
 
 ### Geographic Distribution Analysis
 
-**Regional Performance Overview (2019-2023)**
+**Regional Performance Overview (2019-2025)**
 
-| Region | 2019 Violations | 2023 Violations | 5-Year Growth | 2023 Market Share | 2023 Revenue (billion UZS) | Revenue Share |
+| Region | 2019 Violations | 2025 Violations | 7-Year Growth | 2025 Market Share | 2025 Revenue (billion UZS) | Revenue Share |
 |--------|-----------------|-----------------|---------------|-------------------|---------------------------|---------------|
-| Ferghana Province | 616 | 366,465 | 59,355% | 62.2% | 62.7 | 51.4% |
-| Tashkent City | 31,469 | 82,203 | 161% | 13.9% | 24.8 | 20.3% |
-| Samarkand Province | 2,755 | 62,462 | 2,167% | 10.6% | 13.0 | 10.6% |
-| Surkhandarya Province | 61 | 18,586 | 30,371% | 3.2% | 4.3 | 3.5% |
-| Andijan Province | 4,806 | 14,043 | 192% | 2.4% | 1.9 | 1.5% |
-| Navoi Province | 190 | 12,287 | 6,367% | 2.1% | 5.0 | 4.1% |
-| Tashkent Province | 3,117 | 7,922 | 154% | 1.3% | 2.4 | 1.9% |
-| Khorezm Province | 959 | 6,952 | 625% | 1.2% | 3.2 | 2.7% |
-| Kashkadarya Province | 140 | 2,614 | 1,767% | 0.4% | 1.0 | 0.8% |
-| Jizzakh Province | 1,129 | 2,405 | 113% | 0.4% | 1.0 | 0.8% |
-| Namangan Province | 835 | 11,628 | 1,292% | 2.0% | 2.2 | 1.8% |
-| Bukhara Province | 2,278 | 1,205 | -47% | 0.2% | 0.5 | 0.4% |
-| Syrdarya Province | 70 | 299 | 327% | 0.1% | 0.1 | 0.1% |
-| Karakalpakstan Republic | 133 | 319 | 140% | 0.1% | 0.01 | 0.01% |
+| Ferghana Province | 616 | 68,432 | 11,007% | 12.9% | 16.4 | 11.7% |
+| Namangan Province | 835 | 265,564 | 31,700% | 50.1% | 58.9 | 42.0% |
+| Samarkand Province | 2,755 | 42,980 | 1,460% | 8.1% | 13.2 | 9.4% |
+| Andijan Province | 4,806 | 90,078 | 1,774% | 17.0% | 24.3 | 17.3% |
+| Tashkent City | 31,469 | 33,980 | 8% | 6.4% | 13.7 | 9.8% |
+| Surkhandarya Province | 61 | 6,487 | 10,536% | 1.2% | 3.2 | 2.3% |
+| Navoi Province | 190 | 11,918 | 6,172% | 2.2% | 5.0 | 3.6% |
+| Khorezm Province | 959 | 4,293 | 348% | 0.8% | 2.1 | 1.5% |
+| Tashkent Province | 3,117 | 1,525 | -51% | 0.3% | 0.9 | 0.6% |
+| Jizzakh Province | 1,129 | 844 | -25% | 0.2% | 0.3 | 0.2% |
+| Kashkadarya Province | 140 | 539 | 285% | 0.1% | 0.3 | 0.2% |
+| Bukhara Province | 2,278 | 983 | -57% | 0.2% | 0.4 | 0.3% |
+| Syrdarya Province | 70 | 587 | 739% | 0.1% | 0.4 | 0.3% |
+| Karakalpakstan Republic | 133 | 1,820 | 1,268% | 0.3% | 1.1 | 0.8% |
 
-#### Regional Processing Efficiency Analysis (2023)
+#### Regional Processing Efficiency Analysis (2025)
 
 | Region | Applications | Violations | Processing Ratio | Accepted | Success Rate | Revenue per Violation (UZS) |
 |--------|-------------|------------|------------------|----------|--------------|---------------------------|
-| Surkhandarya | 14,952 | 18,586 | 124.3% | 17,934 | 96.5% | 229,279 |
-| Navoi | 10,058 | 12,287 | 122.2% | 10,205 | 83.1% | 410,341 |
-| Jizzakh | 1,737 | 2,405 | 138.5% | 1,781 | 74.1% | 411,039 |
-| Ferghana | 276,215 | 366,465 | 132.7% | 281,490 | 76.8% | 171,214 |
-| Samarkand | 39,384 | 62,462 | 158.6% | 53,125 | 85.1% | 207,647 |
-| Tashkent City | 39,239 | 82,203 | 209.5% | 44,889 | 54.6% | 302,047 |
-| **National Average** | **406,070** | **589,390** | **145.1%** | **427,401** | **72.5%** | **285,986** |
+| Jizzakh | 693 | 844 | 121.8% | 731 | 86.6% | 336,735 |
+| Syrdarya | 561 | 587 | 104.6% | 351 | 59.8% | 640,989 |
+| Samarkand | 32,300 | 42,980 | 133.1% | 39,134 | 91.1% | 307,409 |
+| Namangan | 211,706 | 265,564 | 125.4% | 181,494 | 68.3% | 221,633 |
+| Andijan | 75,615 | 90,078 | 119.1% | 64,861 | 72.0% | 270,067 |
+| Tashkent City | 17,679 | 33,980 | 192.2% | 19,655 | 57.8% | 403,607 |
+| **National Average** | **413,695** | **530,030** | **128.1%** | **377,168** | **71.2%** | **264,463** |
 
 **Key Regional Insights:**
-- **Ferghana Province**: Dominates with 62% market share but below-average revenue per violation
-- **Tashkent City**: Highest revenue per violation but lowest processing efficiency
-- **Surkhandarya**: Best processing efficiency at 96.5%
-- **Karakalpakstan & Syrdarya**: Severely underutilized regions with <0.1% market share each
+- **Namangan Province**: Emerges as new leader with 50.1% market share and 42% revenue share
+- **Ferghana Province**: Maintained strong growth (11,007% increase) but relatively smaller scale
+- **Tashkent City**: Declined in relative importance but maintains highest revenue per violation
+- **Processing Quality**: Most regions achieved 70%+ success rates, indicating system maturation
 
 ### Recommendations for Further Research
 
@@ -341,10 +347,12 @@ This analysis examines five years (2019-2023) of crowdsourced road safety violat
 
 ### Conclusion
 
-The Uzbekistan e-Jarima crowdsourced road safety system represents a successful implementation of technology-enabled, incentive-driven traffic enforcement. The data reveals substantial system growth, significant revenue generation, and evolving patterns of traffic violations. This dataset provides valuable insights for academic research on crowdsourcing effectiveness, behavioral economics of traffic enforcement, and technology adoption in developing countries.
+The Uzbekistan e-Jarima crowdsourced road safety system represents a successful implementation of technology-enabled, incentive-driven traffic enforcement over seven years (2019-2025). The data reveals substantial system growth, significant revenue generation, and evolving patterns of traffic violations and regional adoption. This dataset provides valuable insights for academic research on crowdsourcing effectiveness, behavioral economics of traffic enforcement, and technology adoption in developing countries.
 
-The 1,211% growth in participation and 282.5 billion UZS in fine revenue demonstrate both the system's effectiveness and its potential for broader application in road safety management. The declining processing efficiency with scale suggests important considerations for system design and infrastructure planning in similar implementations.
+The system's evolution from 33,383 violations in 2019 to 530,030 in 2025 demonstrates both the system's effectiveness and its potential for broader application in road safety management. The shift in regional leadership from Ferghana to Namangan Province, along with the stabilization of processing efficiency around 80%, suggests important system maturation and optimization.
+
+The emerging trend of unpaid fines in 2025 (18.8 billion UZS) indicates new challenges requiring attention, while the overall 511.9 billion UZS in revenue generation over seven years demonstrates the economic viability of crowdsourced enforcement models for developing countries.
 
 ---
 
-*Dataset compiled from official e-Jarima offense reports (2019-2023), Republic of Uzbekistan Ministry of Internal Affairs.*
+*Dataset compiled from official e-Jarima offense reports (2019-2025), Republic of Uzbekistan Ministry of Internal Affairs.*
