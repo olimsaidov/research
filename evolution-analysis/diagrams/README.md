@@ -1,6 +1,6 @@
-# Jarima Platform Visual Documentation
+# E-Jarima Platform Visual Documentation
 
-This directory contains comprehensive visual representations of the Jarima platform from various perspectives. Each diagram provides unique insights into different aspects of the system, supporting both technical understanding and business analysis.
+This directory contains comprehensive visual representations of the E-Jarima platform from various perspectives. Each diagram provides unique insights into different aspects of the system, supporting both technical understanding and business analysis.
 
 ## Diagram Collection
 

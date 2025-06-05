@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Platform value creation represents a fundamental shift from traditional linear value chains to dynamic, multi-sided ecosystems. The Jarima platform exemplifies this transformation in the civic technology space, creating value through network effects, ecosystem development, and the orchestration of interactions between diverse stakeholders. This analysis explores how the platform creates, captures, and distributes value across its ecosystem.
+Platform value creation represents a fundamental shift from traditional linear value chains to dynamic, multi-sided ecosystems. The E-Jarima platform exemplifies this transformation in the civic technology space, creating value through network effects, ecosystem development, and the orchestration of interactions between diverse stakeholders. This analysis explores how the platform creates, captures, and distributes value across its ecosystem.
 
 *For visual representation of the complete value creation network, see the [Value Creation Network diagram](../diagrams/value-creation-network.md) and [Stakeholder Ecosystem diagram](../diagrams/stakeholder-ecosystem.md).*
 
@@ -77,7 +77,7 @@ The more citizens participate in the platform, the more valuable it becomes for 
 
 #### Metcalfe's Law Application
 - Theoretical value: V = n²
-- Adjusted for Jarima: V = n^1.5 (accounting for inactive users)
+- Adjusted for E-Jarima: V = n^1.5 (accounting for inactive users)
 - Current network value: 250,000^1.5 = ~125 million value units
 
 #### Network Growth Metrics
@@ -160,7 +160,7 @@ The more citizens participate in the platform, the more valuable it becomes for 
 
 #### Hackathon Outcomes
 
-**Annual Jarima Hackathon Results**:
+**Annual E-Jarima Hackathon Results**:
 - Participants: 500+ developers annually
 - Projects submitted: 100+ annually
 - Commercialized solutions: 10-15%
@@ -361,4 +361,4 @@ The more citizens participate in the platform, the more valuable it becomes for 
 
 ## Conclusion
 
-The Jarima platform demonstrates exceptional value creation through sophisticated network effects, comprehensive ecosystem development, and strategic value distribution mechanisms. By transforming a traditional government service into a platform-based ecosystem, Jarima has created a self-reinforcing cycle of value creation that benefits all stakeholders. The platform's success in creating both economic and social value while fostering innovation provides a blueprint for future civic technology initiatives. With careful nurturing of network effects and continued ecosystem development, the platform is positioned to create exponentially greater value in the coming years.
+The E-Jarima platform demonstrates exceptional value creation through sophisticated network effects, comprehensive ecosystem development, and strategic value distribution mechanisms. By transforming a traditional government service into a platform-based ecosystem, E-Jarima has created a self-reinforcing cycle of value creation that benefits all stakeholders. The platform's success in creating both economic and social value while fostering innovation provides a blueprint for future civic technology initiatives. With careful nurturing of network effects and continued ecosystem development, the platform is positioned to create exponentially greater value in the coming years.

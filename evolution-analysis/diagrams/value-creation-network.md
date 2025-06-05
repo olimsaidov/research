@@ -1,7 +1,7 @@
 # Value Creation Network Diagram
 
 ## Overview
-This diagram visualizes how value is created, flows, and multiplies across the Jarima platform ecosystem. It demonstrates the complex network of value exchanges that create sustainable growth and benefit for all stakeholders.
+This diagram visualizes how value is created, flows, and multiplies across the E-Jarima platform ecosystem. It demonstrates the complex network of value exchanges that create sustainable growth and benefit for all stakeholders.
 
 ## Value Creation Network
 
@@ -341,4 +341,4 @@ pie title Value Distribution Across Stakeholders
 3. **Regulatory Support**: Government partnership
 4. **Community Investment**: Citizen ownership feeling
 
-The value creation network demonstrates how Jarima has successfully built a self-reinforcing ecosystem where value created for one stakeholder enhances value for all others, creating sustainable competitive advantages and long-term growth potential.
+The value creation network demonstrates how E-Jarima has successfully built a self-reinforcing ecosystem where value created for one stakeholder enhances value for all others, creating sustainable competitive advantages and long-term growth potential.

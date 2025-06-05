@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section comprehensively analyzes the evolution of business features within the Jarima platform from its initial launch in May 2019 through its current state in 2025. The analysis demonstrates how a simple violation reporting tool transformed into a comprehensive ecosystem serving multiple stakeholder groups while maintaining system coherence and user experience quality.
+This section comprehensively analyzes the evolution of business features within the E-Jarima platform from its initial launch in May 2019 through its current state in 2025. The analysis demonstrates how a simple violation reporting tool transformed into a comprehensive ecosystem serving multiple stakeholder groups while maintaining system coherence and user experience quality.
 
 *For visual representation of this evolution, see the [Evolution Timeline diagram](../diagrams/evolution-timeline.md).*
 

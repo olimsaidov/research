@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The technical challenges faced during the Jarima platform's evolution from processing 91 videos daily in 2019 to 1,199 videos daily in 2023 required sophisticated engineering solutions that balanced scalability, reliability, and cost efficiency. These challenges encompassed video processing at unprecedented scale, complex payment distribution systems, and integration with legacy government infrastructure while maintaining high availability and security standards.
+The technical challenges faced during the E-Jarima platform's evolution from processing 91 videos daily in 2019 to 1,199 videos daily in 2023 required sophisticated engineering solutions that balanced scalability, reliability, and cost efficiency. These challenges encompassed video processing at unprecedented scale, complex payment distribution systems, and integration with legacy government infrastructure while maintaining high availability and security standards.
 
 The technical solutions developed during this evolution demonstrate how systematic engineering approaches can address complex civic technology requirements while achieving both performance excellence and operational sustainability.
 

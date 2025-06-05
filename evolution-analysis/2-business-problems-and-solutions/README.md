@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Jarima platform's evolution represents a systematic approach to solving complex, interconnected problems in traffic enforcement, civic engagement, and government efficiency. This comprehensive analysis examines how the platform identified core problems, developed innovative solutions, and iteratively refined approaches based on real-world implementation experience. The solutions demonstrate the power of technology-enabled crowdsourcing combined with traditional government processes.
+The E-Jarima platform's evolution represents a systematic approach to solving complex, interconnected problems in traffic enforcement, civic engagement, and government efficiency. This comprehensive analysis examines how the platform identified core problems, developed innovative solutions, and iteratively refined approaches based on real-world implementation experience. The solutions demonstrate the power of technology-enabled crowdsourcing combined with traditional government processes.
 
 *For technical implementation details, see the [System Architecture diagram](../diagrams/system-architecture.md) and [Data Flow diagram](../diagrams/data-flow.md).*
 

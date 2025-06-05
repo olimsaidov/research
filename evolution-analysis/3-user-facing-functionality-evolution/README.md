@@ -2,7 +2,7 @@
 
 ## Overview
 
-The user-facing functionality of the Jarima platform evolved from basic web forms to a sophisticated, multi-platform ecosystem serving diverse user needs. This evolution reflects a deep understanding of user behavior, technological capabilities, and the importance of user experience in civic technology adoption. The platform's success in achieving 1,211% growth over five years is directly attributable to its user-centric design philosophy and continuous interface refinement.
+The user-facing functionality of the E-Jarima platform evolved from basic web forms to a sophisticated, multi-platform ecosystem serving diverse user needs. This evolution reflects a deep understanding of user behavior, technological capabilities, and the importance of user experience in civic technology adoption. The platform's success in achieving 1,211% growth over five years is directly attributable to its user-centric design philosophy and continuous interface refinement.
 
 *For visual representation of stakeholder interactions, see the [Stakeholder Ecosystem diagram](../diagrams/stakeholder-ecosystem.md).*
 

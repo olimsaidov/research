@@ -1,7 +1,7 @@
 # System Architecture Diagram
 
 ## Overview
-This diagram illustrates the comprehensive system architecture of the Jarima platform, showing how different components interact to create a scalable civic technology solution for traffic violation reporting.
+This diagram illustrates the comprehensive system architecture of the E-Jarima platform, showing how different components interact to create a scalable civic technology solution for traffic violation reporting.
 
 ## Architecture Diagram
 

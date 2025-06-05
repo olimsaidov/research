@@ -1,7 +1,7 @@
 # Data Flow Diagram
 
 ## Overview
-This diagram illustrates the complete data flow through the Jarima platform, from initial violation capture to final reward distribution. It shows how data transforms and moves through various processing stages, creating value at each step.
+This diagram illustrates the complete data flow through the E-Jarima platform, from initial violation capture to final reward distribution. It shows how data transforms and moves through various processing stages, creating value at each step.
 
 ## Main Data Flow
 

@@ -1,11 +1,11 @@
-# Jarima Platform Technical Glossary
+# E-Jarima Platform Technical Glossary
 
 This comprehensive glossary provides definitions for technical terms, business concepts, and platform-specific terminology used throughout the evolution analysis documentation. It serves as a reference to ensure clear understanding across diverse audiences including researchers, government officials, developers, and business strategists.
 
 ## Core Business Terms
 
 ### ASBT (Automated State Traffic Safety System)
-The government's official traffic violation management system. Jarima integrates with ASBT to forward verified violations for official processing.
+The government's official traffic violation management system. E-Jarima integrates with ASBT to forward verified violations for official processing.
 
 ### Violation/Offense
 A traffic law infringement captured on video by citizens and processed through the platform. Each violation goes through detection, review, and forwarding stages.
@@ -22,7 +22,7 @@ Monetary compensation given to citizens for successfully reported violations. Ca
 Industry-standard authorization framework implemented for third-party access. Supports Authorization Code and Client Credentials flows with scope-based permissions.
 
 ### MinIO
-Open-source object storage system used for video and image storage. Jarima uses multiple MinIO instances for redundancy and geographic distribution.
+Open-source object storage system used for video and image storage. E-Jarima uses multiple MinIO instances for redundancy and geographic distribution.
 
 ### Redis/Carmine
 In-memory data store used for session management, caching, and temporary data. Carmine is the Clojure client library for Redis.
@@ -31,7 +31,7 @@ In-memory data store used for session management, caching, and temporary data. C
 SQL generation library for Clojure that provides composable, programmatic query building while maintaining SQL semantics.
 
 ### Luminus
-Full-stack Clojure web framework that provides the foundation for Jarima's application structure, including routing, middleware, and database migrations.
+Full-stack Clojure web framework that provides the foundation for E-Jarima's application structure, including routing, middleware, and database migrations.
 
 ## Processing Pipeline Terms
 

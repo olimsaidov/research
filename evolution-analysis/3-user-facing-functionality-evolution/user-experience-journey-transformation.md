@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The user experience journey transformation of the Jarima platform represents one of the most comprehensive examples of user-centered design evolution in civic technology. From its initial launch with basic Russian-only web forms to achieving 96% task completion rates across multiple languages and platforms, the platform demonstrates how systematic attention to user needs can drive extraordinary adoption and engagement in government digital services.
+The user experience journey transformation of the E-Jarima platform represents one of the most comprehensive examples of user-centered design evolution in civic technology. From its initial launch with basic Russian-only web forms to achieving 96% task completion rates across multiple languages and platforms, the platform demonstrates how systematic attention to user needs can drive extraordinary adoption and engagement in government digital services.
 
 The transformation journey encompasses not only technical improvements but fundamental changes in how citizens interact with government services, establishing new standards for accessibility, transparency, and user empowerment in civic technology applications.
 

@@ -1,13 +1,13 @@
 # Platform Evolution Timeline
 
 ## Overview
-This diagram visualizes the evolution of the Jarima platform from its inception in 2019 to its current state in 2025, showing major milestones, feature additions, and technological advancements across different domains.
+This diagram visualizes the evolution of the E-Jarima platform from its inception in 2019 to its current state in 2025, showing major milestones, feature additions, and technological advancements across different domains.
 
 ## Evolution Timeline
 
 ```mermaid
 timeline
-    title Jarima Platform Evolution (2019-2025)
+    title E-Jarima Platform Evolution (2019-2025)
 
     section Foundation Phase
         2019 Q2 : Platform Launch

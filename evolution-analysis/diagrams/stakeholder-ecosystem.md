@@ -1,7 +1,7 @@
 # Stakeholder Ecosystem Diagram
 
 ## Overview
-This diagram visualizes the complex ecosystem of stakeholders in the Jarima platform, showing their relationships, interactions, and value exchanges. It demonstrates how the platform creates a multi-sided marketplace connecting citizens, government, businesses, and developers.
+This diagram visualizes the complex ecosystem of stakeholders in the E-Jarima platform, showing their relationships, interactions, and value exchanges. It demonstrates how the platform creates a multi-sided marketplace connecting citizens, government, businesses, and developers.
 
 ## Ecosystem Diagram
 
@@ -130,7 +130,7 @@ These are the core users and operators of the platform:
    - **Value Exchange**: Employment for service
 
 ### Platform Core
-The Jarima platform serves as the central orchestrator:
+The E-Jarima platform serves as the central orchestrator:
 - Processes videos and manages violations
 - Distributes payments and notifications
 - Provides APIs and integrations
